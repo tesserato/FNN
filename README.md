@@ -1,2 +1,2 @@
 # FNN
-Feed forward neural network in Python and numpy
+Feed forward neural network in Python and Numpy
